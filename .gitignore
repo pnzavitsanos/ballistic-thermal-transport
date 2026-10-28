@@ -1,0 +1,7 @@
+*.txt
+*.exe
+*.o
+/coupled_transport
+/steady_state
+profiles.png
+!docs/profiles.png
